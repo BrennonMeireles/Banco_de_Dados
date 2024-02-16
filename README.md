@@ -1,4 +1,4 @@
-## Atividades de Banco de Dados -
+## Atividades de Banco de Dados
 
 Bem-vindo ao repositório de atividades da disciplina de Banco de Dados do SENAI. Este repositório é dedicado a armazenar e compartilhar materiais relacionados às atividades práticas e teóricas sobre o Modelo Entidade-Relacionamento (MER).
 
